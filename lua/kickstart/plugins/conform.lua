@@ -42,6 +42,7 @@ return {
         jsonc = { 'biome' },
         css = { 'biome' },
         html = { 'prettier' },
+        svelte = { 'biome' },
         -- Conform can also run multiple formatters sequentially
         -- python = { "isort", "black" },
         --
